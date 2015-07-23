@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.bitspacedevelopment.flashcardgame" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>FlaseCardGame</name>
+    <description>
+	A simple flash card application to help students study.
+    </description>
+    <author email="support@bitspacedevelopment.com" href="http://bitspacedevelopment.com">
+        Bit Space Development
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
