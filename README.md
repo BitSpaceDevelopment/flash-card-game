@@ -2,6 +2,23 @@
 
 This is a simple study tool for students. Students can create their own word lists and use the application to study for courses.
 
+## Plugins
+
+We are using several plugins which need to be installed when the repository is cloned. You can install via the command line:
+```bash
+cordova plugin add org.apache.cordova.splashscreen
+```
+
+The plugins included:
+* org.apache.cordova.splashscreen
+* org.apache.cordova.dialogs
+* org.apache.cordova.device
+
+Alternatively you can add all of the plugins by running:
+```bash
+bash ./start.sh
+```
+
 ## Cordova
 
 https://cordova.apache.org/
